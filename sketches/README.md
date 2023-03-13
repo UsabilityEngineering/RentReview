@@ -1,2 +1,2 @@
 # Sketches
-![Sketch 1](assets/sketch.jpg)
+![Sketch 1](assets/sketches.jpg)
