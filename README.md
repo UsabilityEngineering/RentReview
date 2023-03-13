@@ -5,7 +5,7 @@ A rental review website that focuses on keeping renters in the know on the manag
 ## UX Team Members
 
 * **[Joseph Pawek](https://usabilityengineering.github.io/ux-portfolio-jpawek/)** - Executive Summary, Sketches, Personas and Scenarios, GitHub management
-* **[Christopher Robles](!!!URL to Person B's published portfolio!!!)** - Introduction, Methods, Findings
+* **[Christopher Robles](https://usabilityengineering.github.io/ux-portfolio-akachriss/)** - Introduction, Methods, Findings
 * **[Lai Le](https://usabilityengineering.github.io/ux-portfolio-laile823/)** - Conclusions, Caveats
 
 # User-Centered Design Artifacts
