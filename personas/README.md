@@ -8,6 +8,10 @@
 
 - Christine is independently minded and focuses hard on her education. She spends lots of time at home and prefers a quiet and comfortable environment to get work done in. She will be taking out student loans to help pay for her time at school.
 
+Goals:
+  - Looking for a cheap apartment within their budget.
+  - Wants a place with good management.
+
 **David:**
 
 - 28 year old male from Chico, CA
@@ -16,6 +20,10 @@
 
 - David has an affinity for mid century architecture. He is very meticulous and willing to go to lengths in order to perfect the aesthetics of his environment. David lives alone with his cat, but hosts a weekly game night with groups of 4-7 people.
 
+Goals:
+  - Looking for somewhere with a spaceous living space.
+  - Looking for somewhere with great reviews and unique design.
+
 **Jared:**
 
 - 38 year old male from Richmond, CA
@@ -23,6 +31,11 @@
 - Full time construction worker
 
 - Jared has a wife and a 1 year old child who live in a small apartment in a bad part of town. His wife is currently unemployed to stay home and care for the baby. He spends 12 hour days at build sites and his first priority is to provide for his family as best he can. He doesn’t stay up to date with technology and prefers apps that are direct and simple to use.
+
+Goals:
+  - Looking for somewhere that meets his budget.
+  - Looking for a living space to raise a family.
+  - Wants an area that's safe and has good reviews for safety and security for his family.
 
 # Scenarios
 
