@@ -10,7 +10,7 @@
 
 ## Findings
 
-!!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!
+!!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!! (results of cognitive walkthroughs)
 
 ## Conclusions
 
