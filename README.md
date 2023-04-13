@@ -30,7 +30,7 @@ A rental review website that focuses on keeping renters in the know on the manag
 **Executive Summary**
 
 - We created a **Wireframe** to be used as a visual and interactive guide when receiving further feedback on our application. This helped us evolve our product by streamlining its features and making it better fulfill user needs.
-- We performed **Cognitive Walkthroughs** that utilized our previously developed **Personas and Scenarios**. These walkthroughs provided feedback on our application through the eyes of a variety of user types. With this feedback we are able to make changes to the overall design and functionality of our site so that it can best serve its potential user base.
+- We performed **Cognitive Walkthroughs** that utilized our previously developed **Personas and Scenarios**. These walkthroughs provid feedback on our application through the eyes of a variety of user types. With this feedback we are able to make changes to the overall design and functionality of our site so that it can best serve its potential user base. Specifically, these walkthroughs informed on changes to our wireframe that make site navigation easier and clarity in the review leaving process.
 
 [Full phase II report](phaseII/)
 
