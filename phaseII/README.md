@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The second phase was focused on creating a wireframe for our website. For us, it was an aid to visualize how we wanted the contents of our website to be structured and laid out. We set out to include most of the functionality with the goal in mind that our users should be able to perform the basic task of finding a property and leaving a review. By using one of our usability techniques, the cognitive walkthrough, we were able to sus out some issues in our design.
+The second phase was focused on creating a wireframe for our website. For us, it was an aid to visualize how we wanted the contents of our website to be structured and laid out. We set out to include most of the functionality with the goal in mind that our users should be able to perform the basic task of finding a property and leaving a review. By using one of our usability techniques, the cognitive walkthrough, we were able to identify some issues in our design.
 
 ## Methods
 
