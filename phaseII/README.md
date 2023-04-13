@@ -24,7 +24,7 @@ Based the information gained from our methods and their findings the overall des
 
 In order to reduce confusion born from element page locations, the location search bar in the property search page should be moved to the map and the property search bar should be moved next to the property search filters.
 
-To help clarify element and page purpose, all search bars should be fleshed out with text input hints and clickable search icons to help inform users on their specific purpose. Additionally, the review page should include text input hints and better direct users to both leaving and reading reviews.
+To help clarify element and page purpose, all search bars should be fleshed out with text input hints and clickable search icons to help inform users on their specific purposes. Additionally, the review page should include text input hints and better direct users to both leaving and reading reviews.
 
 ## Caveats
 
