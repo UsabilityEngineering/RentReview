@@ -1,2 +1,2 @@
 # Wireframe
-![Wireframe 1](wireframes.pdf)
+![Wireframe 1](wireframe.pdf)
