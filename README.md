@@ -29,11 +29,8 @@ A rental review website that focuses on keeping renters in the know on the manag
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
-
+- We created a **Wireframe** to be used as a visual and interactive guide when receiving further feedback on our application. This helped us evolve our product by streamlining its features and making it better fulfill user needs.
+- We performed **Cognitive Walkthroughs** that utilized our previously developed **Personas and Scenarios**. These walkthroughs provided feedback on our application through the eyes of a variety of user types. With this feedback we are able to make changes to the overall design and functionality of our site so that it can best serve its potential user base.
 [Full phase II report](phaseII/)
 
 # Phase III: Prototypes and User Testing
