@@ -38,7 +38,7 @@ A rental review website that focuses on keeping renters in the know on the manag
 
 **Executive Summary**
 
-- We converted our **Wireframe** into a **Prototype** that can perform the basic functional flow that our web service will utilize. This gave us valuable insight into the ways that a user might interact with the site, and where our UI was lacking.
+- We converted our **Wireframe** into a **Prototype** that can perform the basic functional flow that our web service will utilize. This gave us valuable insight into the ways that a user might interact with the site and where our UI was lacking.
 - We performed a **User Test** using our **Prototype**. In this test we asked a group of test users to perform a number of basic actions that interface with a variety of our site's functionalities. We collected data on the test user's background, how the user navigated the website, and the user's likes and dislikes with our site as compared to competitors. This gave us further insight into changes that should be made in the map interface and property homepages.
 
 [Full phase III report](phaseIII/)
