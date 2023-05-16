@@ -13,7 +13,7 @@ A rental review website that focuses on keeping renters in the know on the manag
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
 * [Wireframes](wireframes/)
-* [Prototype](https://xd.adobe.com/view/5708f3dd-02ec-4117-8f3c-f8bd64b7bd99-025b/?fullscreen) - Coming soon (phase III)!
+* [Prototype](https://xd.adobe.com/view/5708f3dd-02ec-4117-8f3c-f8bd64b7bd99-025b/?fullscreen)
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs
 
