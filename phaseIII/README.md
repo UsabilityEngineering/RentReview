@@ -14,6 +14,8 @@ Participants when tasked to find a place that allows pets on Zillow had a diffic
 
 Additionally, we found that users generally approved of the categories that we have selected for the review section. We noted that different users had different priorities in their renting experience, and these priorities were well reflected with our review system.
 
+A number of users did have difficulty in the navigation of the property side bar on the map page and the property homepages. This has influenced us to add additionaly information in the property tiles of the side bar, and shift the review related information around on the property homepages to promote clarity.
+
 ## Conclusions
 
 !!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
