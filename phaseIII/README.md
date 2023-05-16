@@ -18,8 +18,8 @@ A number of users did have difficulty in the navigation of the property side bar
 
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+In conclusion, our prototype performed well in our particular user design test. Participants in our user test provided valuable feedback in the form of recommendations for specific changes, their navigation process of our website, and their specific backgrounds. With this feedback applied, our site should provide more clarity on the map page concerning property information and guide users more effectively to leaving reviews.
 
 ## Caveats
 
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
+An important caveat of our user testing is that our users were made up of our peers. While these users did have relevant experience with renting and rental websites, as well as using them frequently, they do not represent the full scope of our potential user base. For this reason, the data we collected, while valuable, may not be accurate for a broader user base.
